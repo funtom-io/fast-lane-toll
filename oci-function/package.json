@@ -1,0 +1,13 @@
+{
+	"name": "fetch-price",
+	"version": "1.0.0",
+	"description": "fetch current fast-lane price function",
+	"main": "func.js",
+	"author": "Oz Molaim",
+	"license": "UNLICENSED",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.62",
+		"axios": "1.6.7",
+		"cheerio": "^1.0.0-rc.12"
+	}
+}

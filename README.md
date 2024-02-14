@@ -1,2 +1,2 @@
-# fast-lane-price
-Periodically fetches the price in the fast-lane and saves it for later analysis
+# Fast Lane Toll
+Fetches the [fast lane](https://fastlane.co.il) toll for later analysis
